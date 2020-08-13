@@ -1,0 +1,18 @@
+#########################
+#UNREAL GENERATED FILEDS#
+#########################
+
+*/Bulid
+*/Binaries
+/*DerivedDataCache
+*/Intermediate
+*/Saved
+*/Content/StarterContent/
+
+#####################
+#VS GENERATED FILEDS#
+#####################
+*.VC.db
+*.sin
+*.suo
+*.VC.opendb
